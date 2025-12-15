@@ -5,5 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/mi-proyecto-ci-cd-express-vite/',
   plugins: [react()]
-  ],
 })
